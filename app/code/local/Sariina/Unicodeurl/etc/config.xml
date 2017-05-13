@@ -1,0 +1,42 @@
+<!--
+/**
+ * @name         :  Sariina_Unicodeurl
+ * @version      :  0.0.1
+ * @since        :  Magento 1.9.3
+ * @author       :  Sariina - http://www.sariina.com
+ * @license      :  GPL
+ * @Creation Date:  2017-05-02
+ *
+ * */
+-->
+<config>
+    <modules>
+        <Sariina_Unicodeurl>
+            <version>0.1.0</version>
+        </Sariina_Unicodeurl>
+    </modules>
+    <global>
+        <models>
+            <catalog>
+                <rewrite>
+                    <product_url>Sariina_Unicodeurl_Model_Product_Url</product_url>
+                    <category>Sariina_Unicodeurl_Model_Category</category>
+                </rewrite>
+            </catalog>
+            <cms_resource>
+                <rewrite>
+                    <page>Sariina_Unicodeurl_Model_Resource_Page</page>
+                </rewrite>
+            </cms_resource>
+        </models>
+    </global>
+    <adminhtml>
+        <layout>
+            <updates>
+                <unicodeurl>
+                    <file>sariina/unicodeurl.xml</file>
+                </unicodeurl>
+            </updates>
+        </layout>
+    </adminhtml>
+</config>

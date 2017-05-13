@@ -1,0 +1,8 @@
+app/code/local/Mage/Core/Controller/Request/Http.php app/code/local/Mage/Core/Controller/Request/Http.php
+app/code/local/Sariina/Unicodeurl/Model/Category.php app/code/local/Sariina/Unicodeurl/Model/Category.php
+app/code/local/Sariina/Unicodeurl/Model/Product/Url.php app/code/local/Sariina/Unicodeurl/Model/Product/Url.php
+app/code/local/Sariina/Unicodeurl/Model/Resource/Page.php app/code/local/Sariina/Unicodeurl/Model/Resource/Page.php
+app/code/local/Sariina/Unicodeurl/etc/config.xml app/code/local/Sariina/Unicodeurl/etc/config.xml
+app/design/adminhtml/default/default/layout/sariina/unicodeurl.xml app/design/adminhtml/default/default/layout/sariina/unicodeurl.xml
+app/etc/modules/Sariina_Unicodeurl.xml app/etc/modules/Sariina_Unicodeurl.xml
+js/sariina/unicodeurl/fix-validation.js js/sariina/unicodeurl/fix-validation.js

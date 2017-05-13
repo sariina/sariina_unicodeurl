@@ -1,0 +1,11 @@
+{
+    "name": "sariina/unicodeurl",
+    "description": "makes Magento accept non-english characters to be used as URL Key for Products, Categories and CMS pages",
+    "keywords": ["sariina", "unicode", "url", "utf-8"],
+    "license": "copyright",
+    "Author": "Sariina",
+    "type": "magento-module",
+    "require":{
+      "magento-hackathon/magento-composer-installer": "*"
+    }
+}
