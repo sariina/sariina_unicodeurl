@@ -4,7 +4,7 @@
  * @version      :  0.0.1
  * @since        :  Magento 1.9.3
  * @author       :  Sariina - http://www.sariina.com
- * @license      :  GPL
+ * @license      :  MIT
  * @Creation Date:  2017-05-02
  *
  * */

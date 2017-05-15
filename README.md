@@ -6,7 +6,7 @@ Facts
 -----
 - version: 0.1.0
 - extension key: sariina/unicodeurl
-- [extension on github](https://github.com/dahdash/sariina_unicodeurl)
+- [extension on github](https://github.com/sariina/sariina_unicodeurl)
 
 
 Requirements
@@ -17,10 +17,6 @@ Requirements
 Compatibility
 -------------
 - Magento >= 1.9
-
-License
----------
-GPL
 
 Installation Instructions
 -------------------------
@@ -34,3 +30,8 @@ To install via composer your 'requier' array should look like this:
 Uninstallation
 --------------
 Remove all extension files from your Magento installation.
+
+License
+---------
+The MIT License (MIT). Please see [License File](LICENSE.txt) for more information.
+
